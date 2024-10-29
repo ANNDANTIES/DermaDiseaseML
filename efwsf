@@ -1,0 +1,29 @@
+[33mcommit 1b827865311b2d4910d3d25868512ba9896b9658[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Anna Danties <annadanties@gmail.com>
+Date:   Tue Oct 29 10:58:19 2024 +0530
+
+    Cleaned up sensitive data from history
+
+[33mcommit 6fc210ff39388ba1444a5280f38f93cd72e37fab[m
+Author: Anna Danties <annadanties@gmail.com>
+Date:   Tue Oct 29 10:54:00 2024 +0530
+
+    Remove sensitive data from app.py
+
+[33mcommit eea452fbecf9da23f635fae256cd5415c6dcf6be[m
+Author: Anna Danties <annadanties@gmail.com>
+Date:   Tue Oct 29 10:36:58 2024 +0530
+
+    dema all completed
+
+[33mcommit fb4a8b4696fb43d3c4873ad3bf932fb29fdd024c[m
+Author: Anna Danties <annadanties@gmail.com>
+Date:   Fri May 3 00:17:16 2024 +0530
+
+    Initial commit
+
+[33mcommit 36229192140920dba9de72a406f9dd757b0a33e4[m
+Author: Anna Danties <annadanties@gmail.com>
+Date:   Wed May 1 15:57:01 2024 +0530
+
+    Uploaded folder
